@@ -1,1 +1,3 @@
-# math_statistics
+# Math statistics labs
+
+Dependencies are listed in requirements.txt
